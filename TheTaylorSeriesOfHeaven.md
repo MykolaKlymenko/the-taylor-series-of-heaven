@@ -1,3 +1,8 @@
+<div style="text-align: center;">
+  <h1 style="margin-bottom: -20px;">The Taylor Series Of Heaven</h1>
+  <img src="pictures/title.jpg" alt="Heaven and Hell Illustration" width="600">
+</div>
+
 # Prologue
 
 Have you ever wondered what **“nothing”** really is?  
