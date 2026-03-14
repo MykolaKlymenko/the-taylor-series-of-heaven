@@ -1,6 +1,16 @@
-<div style="text-align: center;">
-  <h1 style="margin-bottom: -20px;">The Taylor Series Of Heaven</h1>
-  <img src="pictures/title.jpg" alt="Heaven and Hell Illustration" width="600">
+<div align="center" style="position: relative; display: inline-block;">
+  <img src="pictures/title.jpg" alt="Cover" width="600">
+  <div style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      font-size: 50px;
+      font-weight: bold;
+      text-shadow: 2px 2px 4px #000;">
+    Taylor Series
+  </div>
 </div>
 
 # Prologue
